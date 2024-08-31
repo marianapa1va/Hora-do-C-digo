@@ -1,7 +1,8 @@
 programa {
   funcao inicio() {
+//Calcula a Ã¡rea do quadrado
 
-   real lado1//Calcula a área do quadrado
+   real lado1
    real lado2
 
    escreva("\nInforme o lado1 do quadrado: ")
@@ -10,7 +11,7 @@ programa {
    escreva("Informe o lado2 do quadrado: ")
    leia(lado2)
    
-   escreva("O valor da área do quadrado é: ", lado1 * lado2)
+   escreva("O valor da Ã¡rea do quadrado Ã©: ", lado1 * lado2)
 
   }
 }
