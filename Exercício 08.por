@@ -1,7 +1,8 @@
 programa {
   funcao inicio() {
-    
-   real base//Calcula a área do paralelograma
+   //Calcula a Ã¡rea do paralelograma
+
+   real base
    real altura
 
    escreva("\nInforme a base do paralelograma: ")
@@ -10,6 +11,6 @@ programa {
    escreva("Informe a altura paralelograma: ")
    leia(altura)
    
-   escreva("O valor da área do paralelogramo é: ", (base * altura))
+   escreva("O valor da Ã¡rea do paralelogramo Ã©: ", (base * altura))
   }
 }
