@@ -22,9 +22,9 @@
  
 10. Tendo como entrada a altura e o gênero designado ao nascer (codificado da seguinte forma: 1: feminino - 2: masculino - ) de uma pessoa, construa um programa que calcule e imprima seu peso ideal, utilizando as seguintes fórmulas.
  
- Fórmula para cálculo:
- para homens : (72.7 * h)-58
- para mulheres : (62.1 * h)-44.7    
+   Fórmula para cálculo:
+   Para homens : (72.7 * h)-58.
+   Para mulheres : (62.1 * h)-44.7.   
 
 11. Uma micro calculadora
 Escreva um programa para ler 2 valores inteiros informados pelo usuário e uma das seguintes operações a serem executadas (codificada da seguinte forma: 1. Adição, 2. Subtração, 3. Divisão, 4. Multiplicação).
